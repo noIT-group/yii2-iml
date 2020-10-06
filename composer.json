@@ -1,0 +1,30 @@
+{
+    "name": "noIT/yii2-iml",
+    "description": "Модуль работы с API IML.ru",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","iml"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "noIT Development",
+            "email": "dev@noit.group",
+            "homepage": "https://noit.group",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "wildtuna/iml-sdk": "stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "noIT\\iml\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:noIT-group/yii2-iml.git"
+        }
+    ]
+}
