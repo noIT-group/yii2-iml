@@ -3,12 +3,12 @@
     "description": "Модуль работы с API IML.ru",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","iml"],
-    "license": "GPL-3.0+",
+    "license": "MIT",
+    "homepage": "https://noit.group",
     "authors": [
         {
-            "name": "noIT Development",
+            "name": "Alexander Karnovsky",
             "email": "dev@noit.group",
-            "homepage": "https://noit.group",
             "role": "Creator"
         }
     ],
@@ -26,5 +26,6 @@
             "type": "vcs",
             "url": "git@github.com:noIT-group/yii2-iml.git"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
