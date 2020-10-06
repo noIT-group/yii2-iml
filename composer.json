@@ -1,5 +1,5 @@
 {
-    "name": "noIT/yii2-iml",
+    "name": "noIT-group/yii2-iml",
     "description": "Модуль работы с API IML.ru",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","iml"],
