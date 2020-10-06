@@ -7,7 +7,7 @@
     "homepage": "https://noit.group",
     "authors": [
         {
-            "name": "Alexander Karnovsky",
+            "name": "Alexander Karnovsky\"prefer-stable\": true",
             "email": "dev@noit.group",
             "role": "Creator"
         }
@@ -27,5 +27,6 @@
             "url": "git@github.com:noIT-group/yii2-iml.git"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
